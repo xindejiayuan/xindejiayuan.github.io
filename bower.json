@@ -1,0 +1,20 @@
+{
+  "name": "XinDeWebsite",
+  "version": "0.0.0",
+  "homepage": "http://xindejiayuan.com",
+  "authors": [
+    "unionx <unionx@foxmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1"
+  }
+}
